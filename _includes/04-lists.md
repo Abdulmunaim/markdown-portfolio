@@ -1,6 +1,3 @@
----
-layout: default
----
 - Abdulmunaim
 - Mohamed
 - Alsaeed
