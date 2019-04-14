@@ -1,21 +1,19 @@
 ---
 layout: default
 ---
+1. Abdulmunaim
+<br>
 
-{% include 01-name.md %}
+2. Mohamed
 
 <br>
 
-{% include 02-image.md %}
+3. Alsaeed
 
 <br>
 
-{% include 03-links.md %}
+4. Ahmed
 
 <br>
 
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+5. Samer
